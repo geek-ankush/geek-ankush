@@ -1,4 +1,4 @@
-<img align="top" alt="Profile Background" width="auto" height="150px"></img>
+![MasterHead](https://images.squarespace-cdn.com/content/v1/58e9b976e58c6214d4b74edc/1511489381695-P7SH2824PJVTUGTWOZC6/k-bomb_logo_pattern-5.gif?format=2500w)
 <h1 align="center">Hi 👋, I'm Ankush Yadav</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
