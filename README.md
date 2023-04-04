@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/tBrdLKc)
+![MasterHead](https://i.ibb.co/hszqY9H/profile-background.gif)
 <h1 align="center">Hi 👋, I'm Ankush Yadav</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
