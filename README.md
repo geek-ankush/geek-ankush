@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ankus.dev](ankus.dev)
 
-- 💬 Ask me about **html, css, javascript, java, python, sap abap, react, express, node, sql**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Python, Sap ABAP, React, Express, NodeJS, SQL**
 
 - 📫 How to reach me **theankushyadav@hotmail.com**
 
